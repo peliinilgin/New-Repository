@@ -8,7 +8,7 @@ mpgData$am <- factor(mpgData$am, labels = c("Automatic", "Manual"))
 
 ui <- fluidPage(
 
-  titlePanel("Taylan Deniz Tuncer - Homework #3: Miles Per Gallon"),
+  titlePanel("Selda Pelin Ilgın - Homework #3: Miles Per Gallon"),
 
   sidebarLayout(
 
